@@ -1,0 +1,8 @@
+{
+  "present": [
+    "content-type"
+  ],
+  "missing": [
+    "x-content-type-options"
+  ]
+}

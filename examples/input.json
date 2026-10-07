@@ -1,0 +1,9 @@
+{
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "required": [
+    "content-type",
+    "x-content-type-options"
+  ]
+}
